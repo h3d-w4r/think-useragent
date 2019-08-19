@@ -1,6 +1,6 @@
 {
     "name": "zzstudio/think-useragent",
-    "description": "The ThinkPHP5.1 Addons Package",
+    "description": "The ThinkPHP5/6 Addons Package",
     "license": "Apache-2.0",
     "authors": [
         {
@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "topthink/framework": "5.1.*"
+        "topthink/framework": "^5.1.*"
     },
     "autoload": {
         "psr-4": {
