@@ -8,8 +8,8 @@
             "email": "xiaobo.sun@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
+
     },
     "autoload": {
         "psr-4": {
