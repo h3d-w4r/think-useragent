@@ -16,7 +16,7 @@ A User-agent analyze project.
 
 ## Example & API
 
-### 后台
+### PHP 代码
 
 ```
 <?php
@@ -24,7 +24,7 @@ $useragent = \think\UserAgent::analyze();
 ?>
 ```
 
-### 模板
+### HTML 模板
 
 ```
 <!DOCTYPE html>
