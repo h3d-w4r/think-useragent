@@ -39,7 +39,7 @@ class UserAgent
         $privateParam = '_' . $param;
         switch ($param) {
             case 'imagePath':
-                return $this->_imagePath . '/static/img/' . $this->_imageSize . '/';
+                return $this->_imagePath . '/assets/img/' . $this->_imageSize . '/';
                 break;
             default:
                 if (isset($this->$privateParam)) {
